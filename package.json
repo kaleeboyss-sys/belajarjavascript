@@ -1,0 +1,27 @@
+{
+  "name": "belajarjavascript",
+  "version": "1.0.0",
+  "description": "Belajar javascript",
+  "keywords": [
+    "bot",
+    "telegram",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "Telegram Bot"
+  },
+  "license": "ISC",
+  "author": "BelajarJAVASCRIPT",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "bot, telegram  bot"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "nodemon": "^3.1.14"
+  }
+}
